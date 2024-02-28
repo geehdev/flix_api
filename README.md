@@ -3,31 +3,31 @@
 # API ENDPOINTS
 ### Actors 🐧
 Actors list:  
-```localhost:8000/api/v1/actors/```
+```<host:porta>/api/v1/actors/```
 
 Actors Create:  
-```localhost:8000/api/v1/actors/```
+```<host:porta>/api/v1/actors/```
 
 ### Get token 🐧
-```localhost:8000/api/v1/authentication/token/```
+```<host:porta>/api/v1/authentication/token/```
 
 ### Genrs 🐧
 Genre create:  
-```localhost:8000/api/v1/genres/```
+```<host:porta>/api/v1/genres/```
 
 Genres list:  
-```localhost:8000/api/v1/genres/```
+```<host:porta>/api/v1/genres/```
 
 Genres options:  
-```localhost:8000/api/v1/genres/2/```
+```<host:porta>/api/v1/genres/<genre_id>/```
 
 Genre update/delete:  
-```localhost:8000/api/v1/genres/8/```
+```<host:porta>/api/v1/genres/<genre_id>/```
 
 ### Movies 🐧
 Movie create:  
-```localhost:8000//api/v1/movies/```
+```<host:porta>//api/v1/movies/```
 
 Movies list:  
-```localhost:8000/api/v1/movies/```
+```<host:porta>/api/v1/movies/```
 
