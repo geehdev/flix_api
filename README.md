@@ -26,7 +26,7 @@ Genre update/delete:
 
 ### Movies 🐧
 Movie create:  
-```<host:porta>//api/v1/movies/```
+```<host:porta>/api/v1/movies/```
 
 Movies list:  
 ```<host:porta>/api/v1/movies/```
